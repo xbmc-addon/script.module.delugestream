@@ -1,0 +1,34 @@
+<strings>
+    <string id="30000">Seeds:  %s      Peers:  %s      Speed:  %s            %s</string>
+    <string id="30001">Initialization</string>
+    <string id="30002">Buffering</string>
+    <string id="30003">Downloading</string>
+    <string id="30004">Uploading</string>
+    <string id="30005">Seeding</string>
+    <string id="30006">Stopping</string>
+    <string id="30007">Copying</string>
+
+    <string id="30031">Buffer</string>
+    <string id="30032">File</string>
+    <string id="30033">Total</string>
+
+    <string id="30050">Could not connect to the Deluge server.|Check if it is available.|Also check the settings of your add-on.</string>
+    <string id="30051">Could not play the file.</string>
+
+    <string id="30100">byte</string>
+    <string id="30101">KB</string>
+    <string id="30102">MB</string>
+    <string id="30103">GB</string>
+    <string id="30104">TB</string>
+
+    <string id="30200">bit/sec</string>
+    <string id="30201">Kbit/sec</string>
+    <string id="30202">Mbit/sec</string>
+    <string id="30203">Gbit/sec</string>
+    <string id="30204">Tbit/sec</string>
+
+    <string id="40001">Host</string>
+    <string id="40002">Port</string>
+    <string id="40003">Size of buffer (%)</string>
+    <string id="40004">Min size of buffer (MB)</string>
+</strings>

@@ -1,0 +1,34 @@
+<strings>
+    <string id="30000">Сиды:  %s      Пиры:  %s      Скорость:  %s            %s</string>
+    <string id="30001">Инициализация</string>
+    <string id="30002">Буферизация</string>
+    <string id="30003">Скачиваем</string>
+    <string id="30004">Раздаем</string>
+    <string id="30005">Сидируем</string>
+    <string id="30006">Останавливаем</string>
+    <string id="30007">Копируем</string>
+
+    <string id="30031">Буфер</string>
+    <string id="30032">Файл</string>
+    <string id="30033">Раздача</string>
+
+    <string id="30050">Не смогли подключиться к Deluge.|Проверьте, включен ли он.|Также проверьте настройки дополнения.</string>
+    <string id="30051">Не смогли запустить проигрывание плеера.|Возможно, установлен слишком маленький буффер.</string>
+
+    <string id="30100">байт</string>
+    <string id="30101">Кбайт</string>
+    <string id="30102">Мбайт</string>
+    <string id="30103">Гбайт</string>
+    <string id="30104">Тбайт</string>
+
+    <string id="30200">бит/сек</string>
+    <string id="30201">Кбит/сек</string>
+    <string id="30202">Мбит/сек</string>
+    <string id="30203">Гбит/сек</string>
+    <string id="30204">Тбит/сек</string>
+
+    <string id="40001">Хост</string>
+    <string id="40002">Порт</string>
+    <string id="40003">Размер буффера (%)</string>
+    <string id="40004">Минимальный размер буффера (Мбайт)</string>
+</strings>

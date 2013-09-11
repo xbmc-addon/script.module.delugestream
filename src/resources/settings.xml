@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+	<setting id="delugestream_host" type="ipaddress" label="40001" values="127.0.0.1" default="127.0.0.1" />
+	<setting id="delugestream_port" type="number" label="40002" values="5757" default="5757" />
+	<setting id="delugestream_buffer_percent" type="slider" label="40003" range="0,100" default="2" option="percent" />
+	<setting id="delugestream_buffer_min" type="number" label="40004" values="20" default="20" />
+</settings>
